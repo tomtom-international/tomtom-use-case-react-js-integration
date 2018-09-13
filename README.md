@@ -9,7 +9,7 @@ Instruction:
 
 2. enter cloned directory and execute:
 ```
-> npm install
+npm install
 ```
 in order to install all dependencies
 
