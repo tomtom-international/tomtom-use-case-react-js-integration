@@ -15,7 +15,7 @@ in order to install all dependencies.
 
 3. Unpack TomTom Web SDK to <i>'\public\sdk'</i> subdirectory in project (make sure that in result you will have such file: <i>'\public\sdk\tomtom.min.js'</i>).
 
-4. Replace <your-api-key> in App.js with your API key
+4. Replace \<your-api-key\> in App.js with your API key
 
 5. Run the project: 
 ```
